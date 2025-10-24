@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prototipe Responsi 1</string>
+    <string name="club_name">10. VfB Stuttgart</string>
+    <string name="profile">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="squad">Team Squad</string>
+    <string name="history">VfB Stuttgart, dengan nama lengkap Verein für Bewegungsspiele Stuttgart 1893 e. V., adalah salah satu klub olahraga paling terkemuka di Jerman yang berbasis di Stuttgart. Akar sejarah klub ini dimulai pada 9 September 1893 dengan berdirinya Stuttgarter Fußballverein (FV), yang awalnya berfokus pada rugby. Klub yang dikenal saat ini baru terbentuk secara resmi pada 2 April 1912, sebagai hasil merger antara FV Stuttgart dan Kronen-Club Cannstatt.
+
+Era kesuksesan pertama VfB Stuttgart terjadi setelah Perang Dunia II, di mana mereka menjadi kekuatan dominan di Jerman. Dipimpin oleh kapten legendaris Robert Schlienz, klub ini berhasil meraih gelar Juara Jerman pada tahun 1950 dan 1952, serta memenangkan DFB-Pokal (Piala DFB) pada tahun 1954 dan 1958.
+
+Sebagai salah satu dari 16 klub pendiri Bundesliga pada tahun 1963, Stuttgart mengalami periode pasang surut, termasuk sempat terdegradasi pada pertengahan 1970-an. Namun, mereka bangkit kembali dan memasuki era keemasan kedua. Klub ini meraih gelar Bundesliga pada musim 1983–84 dan kembali menjadi juara pada musim 1991–92. Puncak kesuksesan di era ini juga ditandai dengan kemenangan DFB-Pokal pada musim 1996–97, yang dipimpin oleh trio "Segitiga Ajaib" (Magisches Dreieck) legendaris: Krasimir Balakov, Giovane Élber, dan Fredi Bobic.
+
+Memasuki milenium baru, Stuttgart dikenal dengan generasi "die jungen Wilden" (Si Liar Muda), yang merupakan gelombang pemain berbakat dari akademi mereka sendiri. Puncaknya terjadi pada musim 2006–07, ketika mereka secara mengejutkan berhasil memenangkan gelar Bundesliga kelima. Skuad juara ini diperkuat oleh talenta-talenta seperti Sami Khedira, Mario Gómez, dan Timo Hildebrand.
+
+Setelah kesuksesan tersebut, klub mengalami periode yang sulit dan tidak stabil, yang berpuncak pada beberapa kali degradasi. Akan tetapi, VfB Stuttgart mengalami kebangkitan luar biasa baru-baru ini di bawah asuhan pelatih Sebastian Hoeneß. Musim 2023–24 menjadi salah satu yang terbaik dalam sejarah modern mereka, dengan pencapaian finis sebagai runner-up Bundesliga dan lolos ke Liga Champions. Momentum positif ini berlanjut dengan kesuksesan menjuarai DFB-Pokal pada musim 2024–25.
+
+Sepanjang sejarahnya, VfB Stuttgart dikenal memiliki salah satu akademi pemain muda terbaik di Jerman. Klub ini telah menghasilkan banyak pemain top dunia, termasuk Philipp Lahm, Joshua Kimmich, Sami Khedira, Mario Gómez, Timo Werner, dan Serge Gnabry.</string>
+    <string name="summary">VfB Stuttgart adalah klub sepak bola terkemuka Jerman yang secara resmi terbentuk pada tahun 1912 melalui merger. Klub ini mengalami era kesuksesan besar pertamanya pada tahun 1950-an, dengan memenangkan dua gelar Kejuaraan Jerman (1950, 1952) dan dua DFB-Pokal (1954, 1958). Sebagai anggota pendiri Bundesliga, Stuttgart kembali meraih kesuksesan dengan menjuarai liga pada musim 1983–84 dan 1991–92, serta memenangkan DFB-Pokal lagi pada 1996–97 yang terkenal dengan trio "Segitiga Ajaib".
+
+Pada era modern, klub ini meraih gelar Bundesliga kelimanya secara mengejutkan pada musim 2006–07, didorong oleh generasi "die jungen Wilden" (Si Liar Muda) dari akademi mereka. Setelah mengalami periode pasang surut dan degradasi, Stuttgart mengalami kebangkitan besar baru-baru ini, finis sebagai runner-up Bundesliga pada musim 2023–24 dan memenangkan DFB-Pokal pada 2024–25. Sepanjang sejarahnya, VfB Stuttgart sangat terkenal dengan akademi kelas dunianya yang telah menghasilkan banyak pemain top seperti Philipp Lahm, Joshua Kimmich, Sami Khedira, dan Mario Gómez.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
